@@ -1,5 +1,7 @@
 package kailaine.mobile.atv_06_exec_1_poo_calcsalario_20_10.model;
-
+/*
+ *@author:<Kailaine Almeida de Souza RA: 1110482313026>
+ */
 public class ProfessorTitular extends Professor{
     private int anosInstituicao;
     private double salario;

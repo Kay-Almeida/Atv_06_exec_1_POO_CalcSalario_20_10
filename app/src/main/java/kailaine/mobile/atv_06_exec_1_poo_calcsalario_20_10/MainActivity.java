@@ -1,5 +1,7 @@
 package kailaine.mobile.atv_06_exec_1_poo_calcsalario_20_10;
-
+/*
+ *@author:<Kailaine Almeida de Souza RA: 1110482313026>
+ */
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
