@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atv_06_exec_1_POO_CalcSalario_20_10</string>
+    <string name="texto1">Escolha a modalidade de Professor </string>
+    <string name="horista">Horista</string>
+    <string name="titular">Titular</string>
+    <string name="horasSalario">Insira as Horas(caso Horista) ou Salário(caso Titular) </string>
+    <string name="valorhoraAnosinstituicao">Valor Hora(caso Horista) ou Anos de Instituição(caso Titular)</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="horassal2">Horas/Salário</string>
+    <string name="valorAnos2">Valor Horas/Anos</string>
+
+</resources>
